@@ -1,4 +1,4 @@
-The most complete privacy extension for chrome by Joshua Doucette with over 600 unenabled modules ready to expand this and take the web where you never thought it would go.
+The most complete privacy extension for chrome by Joshua Doucette with over 600 unenabled modules ready to expand this and take the web where you never thought it would go. It works with injecting new IFrames too, which most others don't.  It has more powerful injection and spoofing than the V3 Manifest allows, but it still works with my latest version of Google.
 
 Plus, these options already built-in working in a nice menu with options, tabs, toast popups, and many more things and its developed for years but finally released to the public and with no license agreement - use it freely for personal or commercial purposes.
 
